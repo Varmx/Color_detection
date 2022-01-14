@@ -1,2 +1,2 @@
-# Color_detection
-Color detection for AI vision
+# Colour_detection
+Colour detection for AI vision
